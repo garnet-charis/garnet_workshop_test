@@ -1,5 +1,5 @@
 Author: Christine Hicks 
-Title:
+Title: Paper
 Abstract:
 Introduction:
 Data:
